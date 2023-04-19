@@ -1,0 +1,138 @@
+{
+  "model": {
+    "rows": [
+      {
+        "id": "d13ceb0c-fc0b-4ba1-a9e1-5d8bc5f84ef0",
+        "index": 0,
+        "menuCellId": "e135e930-baf9-49f6-b0e0-f5d1ca29dce1",
+        "creationTime": 1681804471728,
+        "lastEditedTime": 1681804547460
+      },
+      {
+        "id": "91e8dcce-6f48-48fe-8b54-7d5d4a1fa4b2",
+        "index": 1,
+        "menuCellId": "2207d264-689a-412b-b764-ff0a652fc4b6",
+        "creationTime": 1681804533123,
+        "lastEditedTime": 1681804617919
+      },
+      {
+        "id": "e293eb2a-e3e1-46ff-b1aa-e1659ae1e7b7",
+        "index": 2,
+        "menuCellId": "44c87d86-4083-44e9-9903-c5eab60456a1",
+        "creationTime": 1681804619063,
+        "lastEditedTime": 1681804619063
+      }
+    ],
+    "columns": [
+      {
+        "id": "f05dabb6-c24a-4a3d-9466-b35369d9ea06",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "footerCellId": "d03baa37-a8bc-48c3-85a6-3a0b8d921e0a"
+      },
+      {
+        "id": "a0f01e06-e21a-4260-969f-019049e6a7b7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "footerCellId": "d2e518e8-21ae-4029-81aa-e002343cac2f"
+      },
+      {
+        "id": "f6f510d5-7ea7-4139-a8ae-88d9c9fb15b2",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "checkbox",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "footerCellId": "c6902972-2358-4024-991f-6a75a50bd5c2"
+      }
+    ],
+    "cells": [
+      {
+        "id": "3fdab67d-5ef5-4940-bb86-8f87ac38ac68",
+        "columnId": "f05dabb6-c24a-4a3d-9466-b35369d9ea06",
+        "rowId": "d13ceb0c-fc0b-4ba1-a9e1-5d8bc5f84ef0",
+        "dateTime": null,
+        "markdown": "未开始",
+        "isHeader": true
+      },
+      {
+        "id": "6792620e-c862-487a-8b89-a74f6ede733d",
+        "columnId": "a0f01e06-e21a-4260-969f-019049e6a7b7",
+        "rowId": "d13ceb0c-fc0b-4ba1-a9e1-5d8bc5f84ef0",
+        "dateTime": null,
+        "markdown": "进行中",
+        "isHeader": true
+      },
+      {
+        "id": "f88f41d6-6cb6-40d8-a3d3-7a2507e45971",
+        "columnId": "f6f510d5-7ea7-4139-a8ae-88d9c9fb15b2",
+        "rowId": "d13ceb0c-fc0b-4ba1-a9e1-5d8bc5f84ef0",
+        "dateTime": null,
+        "markdown": "已完成",
+        "isHeader": true
+      },
+      {
+        "id": "b7458f17-2b31-473b-8b0a-30d25a147253",
+        "columnId": "f05dabb6-c24a-4a3d-9466-b35369d9ea06",
+        "rowId": "91e8dcce-6f48-48fe-8b54-7d5d4a1fa4b2",
+        "dateTime": null,
+        "markdown": "",
+        "isHeader": false
+      },
+      {
+        "id": "6f4b6c52-f161-4169-a133-e3067768950d",
+        "columnId": "a0f01e06-e21a-4260-969f-019049e6a7b7",
+        "rowId": "91e8dcce-6f48-48fe-8b54-7d5d4a1fa4b2",
+        "dateTime": null,
+        "markdown": "",
+        "isHeader": false
+      },
+      {
+        "id": "7c841647-00b1-4fbf-8051-fb0c7b51a1e6",
+        "columnId": "f6f510d5-7ea7-4139-a8ae-88d9c9fb15b2",
+        "rowId": "91e8dcce-6f48-48fe-8b54-7d5d4a1fa4b2",
+        "dateTime": null,
+        "markdown": "[ ]",
+        "isHeader": false
+      },
+      {
+        "id": "34f75efd-2327-4f63-bda3-4a9c2a06fe41",
+        "columnId": "f05dabb6-c24a-4a3d-9466-b35369d9ea06",
+        "rowId": "e293eb2a-e3e1-46ff-b1aa-e1659ae1e7b7",
+        "dateTime": null,
+        "markdown": "",
+        "isHeader": false
+      },
+      {
+        "id": "d8c104d5-61a7-4734-bc6a-2e6fee64ffe2",
+        "columnId": "a0f01e06-e21a-4260-969f-019049e6a7b7",
+        "rowId": "e293eb2a-e3e1-46ff-b1aa-e1659ae1e7b7",
+        "dateTime": null,
+        "markdown": "",
+        "isHeader": false
+      },
+      {
+        "id": "007f4728-0c1a-4527-99a5-25d6d5a05ccc",
+        "columnId": "f6f510d5-7ea7-4139-a8ae-88d9c9fb15b2",
+        "rowId": "e293eb2a-e3e1-46ff-b1aa-e1659ae1e7b7",
+        "dateTime": null,
+        "markdown": "",
+        "isHeader": false
+      }
+    ],
+    "tags": []
+  },
+  "pluginVersion": 632
+}
